@@ -1,8 +1,9 @@
 welcome to the kitchen
 recipe list
 Morning:
-
-
+idli
+dosa
+upma
 
 Afternoon:
 
